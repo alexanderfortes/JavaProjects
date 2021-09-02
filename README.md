@@ -25,6 +25,6 @@ Exercício 4 - Usando a classe Scanner, crie um programa em Java que solicite ao
     nome e a idade e apresente numa MessageDialog na seguinte saída: O seu nome é: Fernanda, a sua idade é 28 (nome seguido de virgula, espaço a 
     sua idade é idade)
 
-Exercício 5 - Crie Crie um programa que gere aleatoriamente 
+Exercício 6 - Crie Crie um programa que gere aleatoriamente 
     números (entre 1 e 5) e os armazene numa matriz 3 x 3. No final deve 
     informar a soma dos números da diagonal direita e esquerda.
