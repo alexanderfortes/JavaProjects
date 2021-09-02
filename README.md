@@ -8,3 +8,20 @@ Exercício 1 - Crie um programa em Java que
 Exercício 2 - Crie um programa em Java que gere um 
     nº entre 0 e 2. Se 0 escrever “CARA”, se 1 escrever “COROA” senão escrever 
     “Volte a tentar”.
+
+Exercício 3 - Usando um ciclo, crie um programa em Java que produza o seguinte output:
+**********(10)
+*********(09)
+********(08)
+*******(07)
+******(06)
+*****(05)
+
+Exercício 4 - Usando a classe Scanner, crie um programa em Java que solicite ao 
+    utilizador 10 números inteiros e os armazene num vetor. 
+    Mostre os valores e informe quantos números são ímpares.
+    
+    Exercício 4 - Usando JOptionpane, crie um programa em Java que solicite ao utilizador o 
+    nome e a idade e apresente numa MessageDialog na seguinte saída:
+O seu nome é: Fernanda, a sua idade é 28 (nome seguido de virgula, espaço a 
+    sua idade é idade)
