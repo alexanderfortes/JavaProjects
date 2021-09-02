@@ -28,3 +28,29 @@ Exercício 4 - Usando a classe Scanner, crie um programa em Java que solicite ao
 Exercício 6 - Crie Crie um programa que gere aleatoriamente 
     números (entre 1 e 5) e os armazene numa matriz 3 x 3. No final deve 
     informar a soma dos números da diagonal direita e esquerda.
+    
+  Exercício 7 - O programa  abaixo listado pretende solicitar 
+    ao utilizador um número inteiro e apresentar a tabuada da soma desse número
+    no seguinte formato:
+    7 + 1 = 8
+7 + 2 = 9
+….
+7 + 10 = 17
+
+   Exercício 8 - Desenvolva um programa em Java que permita
+    calcular o resultado de um questionário aplicado a um determinado 
+    número de famílias. O programa deverá responder aos seguintes requisitos: 
+    Perguntar ao utilizador quantas famílias responderam ao questionário. 
+    Para cada família perguntar:
+• Residência:(1-Continente 2-Açores 3-Madeira)
+• Idade do pai:
+• Idade da mãe:
+• Quantos filhos:
+• Rendimento familiar:
+Os resultados das seguintes consultas devem ser apresentados após a 
+    fase de recolha dos dados:
+• Quantas famílias residem no continente e em cada uma das ilhas.
+• Qual o número médio de filhos por casal.
+• Rendimento médio familiar dos casais com 2 filhos ou menos.
+• Quantidade de famílias com mais do que dois filhos.
+• Idade média dos pais.
