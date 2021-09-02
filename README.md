@@ -2,4 +2,4 @@
 
 Programa para a gestão de uma cafetaria
 
-![pos](https://user-images.githubusercontent.com/79266988/131863795-a43a04f8-d901-42a9-8a05-26cbadb20833.png)
+![pos](https://user-images.githubusercontent.com/79266988/131864905-c2df91eb-0dfe-47e7-bad3-ebb35225a2c3.png)
