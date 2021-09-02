@@ -1,4 +1,4 @@
-# JavaProjects
+# JavaProjects 01
 
 Exercício 1 - Crie um programa em Java que 
               cumprimente o utilizador. Se o mês do sistema estiver entre 1 e 7 escrever 
