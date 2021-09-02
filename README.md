@@ -10,12 +10,17 @@ Exercício 2 - Crie um programa em Java que gere um
     “Volte a tentar”.
 
 Exercício 3 - Usando um ciclo, crie um programa em Java que produza o seguinte output:
+
   **********(10)
   
   *********(09)
+  
   ********(08)
+  
   *******(07)
+  
   ******(06)
+  
   *****(05)
 
 Exercício 4 - Usando a classe Scanner, crie um programa em Java que solicite ao 
