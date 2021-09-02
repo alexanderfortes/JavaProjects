@@ -11,6 +11,7 @@ Exercício 2 - Crie um programa em Java que gere um
 
 Exercício 3 - Usando um ciclo, crie um programa em Java que produza o seguinte output:
   **********(10)
+  
   *********(09)
   ********(08)
   *******(07)
